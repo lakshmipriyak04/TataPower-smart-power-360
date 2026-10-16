@@ -591,7 +591,7 @@ Add screenshots of the completed dashboard pages to the `screenshots/` folder. U
 
 ### 1. Dashboard Overview
 
-![Dashboard Overview](C:\Users\LEGION\Desktop\final project\Dashboard screenshot)
+![Dashboard Overview](screenshots/dashboard-overview.png)
 
 ### 2. Grid & Substations
 
