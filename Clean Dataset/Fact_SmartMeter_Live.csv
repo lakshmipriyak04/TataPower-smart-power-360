@@ -1,0 +1,2 @@
+﻿Count of Consumption ID,Sum of Current_A,MeterID,Sum of Power_Factor,Reading_Status,Sum of Solar_Export_kWh,Tamper_Flag,Year,Quarter,Month,Day,Sum of Voltage_V
+6,10.66,SM001,5.647,OK,0,0,2026,Qtr 3,July,10,1372.2

@@ -1,0 +1,101 @@
+﻿Customer_Category,MeterID,Rooftop_Solar,SubstationID,Total Meters,ZoneID
+Commercial,SM002,No,SS-AJM-01,1,Z4
+Commercial,SM013,No,SS-ODI-04,1,Z3
+Commercial,SM017,No,SS-AJM-03,1,Z4
+Commercial,SM020,No,SS-JAM-01,1,Z5
+Commercial,SM026,No,SS-ODI-01,1,Z3
+Commercial,SM030,No,SS-ODI-04,1,Z3
+Commercial,SM033,No,SS-JAM-02,1,Z5
+Commercial,SM035,No,SS-MUM-03,1,Z1
+Commercial,SM037,No,SS-MUM-02,1,Z1
+Commercial,SM052,No,SS-DEL-03,1,Z2
+Commercial,SM056,No,SS-DEL-02,1,Z2
+Commercial,SM062,No,SS-AJM-01,1,Z4
+Commercial,SM067,No,SS-ODI-01,1,Z3
+Commercial,SM081,No,SS-DEL-04,1,Z2
+Commercial,SM085,No,SS-ODI-02,1,Z3
+Commercial,SM088,No,SS-DEL-03,1,Z2
+Commercial,SM094,No,SS-DEL-01,1,Z2
+Commercial,SM100,No,SS-JAM-02,1,Z5
+EV Charging,SM012,No,SS-JAM-04,1,Z5
+EV Charging,SM018,No,SS-MUM-04,1,Z1
+EV Charging,SM032,No,SS-ODI-01,1,Z3
+EV Charging,SM036,No,SS-JAM-02,1,Z5
+EV Charging,SM053,No,SS-MUM-01,1,Z1
+EV Charging,SM070,No,SS-DEL-03,1,Z2
+EV Charging,SM077,No,SS-AJM-03,1,Z4
+EV Charging,SM087,No,SS-MUM-03,1,Z1
+Industrial,SM004,No,SS-JAM-04,1,Z5
+Industrial,SM008,No,SS-DEL-04,1,Z2
+Industrial,SM009,No,SS-MUM-04,1,Z1
+Industrial,SM029,No,SS-DEL-04,1,Z2
+Industrial,SM042,No,SS-MUM-01,1,Z1
+Industrial,SM054,No,SS-MUM-04,1,Z1
+Industrial,SM058,No,SS-JAM-01,1,Z5
+Industrial,SM066,No,SS-MUM-02,1,Z1
+Industrial,SM069,No,SS-AJM-03,1,Z4
+Industrial,SM073,No,SS-MUM-03,1,Z1
+Industrial,SM074,No,SS-MUM-01,1,Z1
+Industrial,SM079,No,SS-DEL-03,1,Z2
+Industrial,SM084,No,SS-DEL-03,1,Z2
+Industrial,SM089,No,SS-MUM-04,1,Z1
+Industrial,SM098,No,SS-ODI-01,1,Z3
+Residential,SM001,No,SS-MUM-04,1,Z1
+Residential,SM003,Yes,SS-AJM-03,1,Z4
+Residential,SM005,Yes,SS-MUM-03,1,Z1
+Residential,SM006,No,SS-JAM-02,1,Z5
+Residential,SM007,Yes,SS-MUM-02,1,Z1
+Residential,SM010,No,SS-DEL-04,1,Z2
+Residential,SM011,No,SS-MUM-04,1,Z1
+Residential,SM014,No,SS-JAM-04,1,Z5
+Residential,SM015,Yes,SS-JAM-04,1,Z5
+Residential,SM016,Yes,SS-MUM-04,1,Z1
+Residential,SM019,No,SS-DEL-04,1,Z2
+Residential,SM021,No,SS-DEL-04,1,Z2
+Residential,SM022,No,SS-ODI-03,1,Z3
+Residential,SM023,No,SS-MUM-01,1,Z1
+Residential,SM024,No,SS-AJM-02,1,Z4
+Residential,SM025,No,SS-AJM-02,1,Z4
+Residential,SM027,No,SS-DEL-04,1,Z2
+Residential,SM028,No,SS-ODI-04,1,Z3
+Residential,SM031,No,SS-AJM-04,1,Z4
+Residential,SM034,No,SS-AJM-04,1,Z4
+Residential,SM038,No,SS-AJM-03,1,Z4
+Residential,SM039,No,SS-MUM-03,1,Z1
+Residential,SM040,No,SS-ODI-02,1,Z3
+Residential,SM041,No,SS-ODI-03,1,Z3
+Residential,SM043,No,SS-ODI-02,1,Z3
+Residential,SM044,No,SS-AJM-04,1,Z4
+Residential,SM045,No,SS-AJM-01,1,Z4
+Residential,SM046,No,SS-MUM-02,1,Z1
+Residential,SM047,No,SS-ODI-03,1,Z3
+Residential,SM048,No,SS-MUM-02,1,Z1
+Residential,SM049,No,SS-AJM-03,1,Z4
+Residential,SM050,No,SS-AJM-04,1,Z4
+Residential,SM051,No,SS-MUM-02,1,Z1
+Residential,SM055,No,SS-DEL-01,1,Z2
+Residential,SM057,No,SS-MUM-04,1,Z1
+Residential,SM059,No,SS-MUM-03,1,Z1
+Residential,SM060,Yes,SS-AJM-03,1,Z4
+Residential,SM061,No,SS-DEL-03,1,Z2
+Residential,SM063,No,SS-AJM-04,1,Z4
+Residential,SM064,No,SS-ODI-02,1,Z3
+Residential,SM065,No,SS-ODI-03,1,Z3
+Residential,SM068,No,SS-JAM-01,1,Z5
+Residential,SM071,Yes,SS-DEL-01,1,Z2
+Residential,SM072,No,SS-AJM-01,1,Z4
+Residential,SM075,No,SS-JAM-03,1,Z5
+Residential,SM076,No,SS-ODI-04,1,Z3
+Residential,SM078,Yes,SS-JAM-04,1,Z5
+Residential,SM080,No,SS-JAM-02,1,Z5
+Residential,SM082,No,SS-DEL-04,1,Z2
+Residential,SM083,No,SS-AJM-02,1,Z4
+Residential,SM086,No,SS-AJM-03,1,Z4
+Residential,SM090,No,SS-AJM-01,1,Z4
+Residential,SM091,Yes,SS-ODI-04,1,Z3
+Residential,SM092,No,SS-DEL-02,1,Z2
+Residential,SM093,Yes,SS-ODI-01,1,Z3
+Residential,SM095,No,SS-AJM-01,1,Z4
+Residential,SM096,Yes,SS-MUM-01,1,Z1
+Residential,SM097,No,SS-MUM-02,1,Z1
+Residential,SM099,No,SS-ODI-04,1,Z3

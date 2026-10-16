@@ -1,0 +1,44 @@
+﻿Sum of Duration_hr,Year,Quarter,Month,Day,Sum of MW_Lost,Outage_Type,OutageID,Plant_Name,PlantID,Reason,Year,Quarter,Month,Day
+20.9,2026,Qtr 3,July,18,75,Forced,OUT001,Bhira PSS,P07,Penstock inspection,2026,Qtr 3,July,17
+55.1,2026,Qtr 3,July,21,38,Forced,OUT003,Bhivpuri HPS,P08,Governor fault,2026,Qtr 3,July,18
+4.9,2026,Qtr 3,July,21,75,Forced,OUT005,Bhira HPS,P06,Governor fault,2026,Qtr 3,July,21
+82,2026,Qtr 3,July,21,800,Planned,OUT002,Mundra UMTPP,P05,Condenser vacuum low,2026,Qtr 3,July,18
+49.7,2026,Qtr 3,July,22,75,Forced,OUT004,Bhira PSS,P07,Governor fault,2026,Qtr 3,July,20
+27.6,2026,Qtr 3,July,24,90,Forced,OUT006,Trombay CCPP,P02,Milling system / feeder problem,2026,Qtr 3,July,22
+27.8,2026,Qtr 3,July,25,180,Forced,OUT007,Trombay CCPP,P02,Boiler auxiliary problem,2026,Qtr 3,July,24
+39.2,2026,Qtr 3,July,26,750,Forced,OUT008,Trombay TPS,P01,Condenser vacuum low,2026,Qtr 3,July,24
+34.3,2026,Qtr 3,July,28,120,Forced,OUT009,Jojobera TPS,P03,Turbine vibration high,2026,Qtr 3,July,26
+43.9,2026,Qtr 3,July,31,75,Forced,OUT010,Bhira PSS,P07,Annual maintenance,2026,Qtr 3,July,29
+36.1,2026,Qtr 3,July,31,120,Forced,OUT012,Jojobera TPS,P03,Coal supply constraint,2026,Qtr 3,July,30
+59.3,2026,Qtr 3,July,31,38,Planned,OUT011,Bhivpuri HPS,P08,Generator bearing temperature high,2026,Qtr 3,July,29
+30.8,2026,Qtr 3,August,5,800,Forced,OUT013,Mundra UMTPP,P05,Water wall tube leakage,2026,Qtr 3,August,4
+16.6,2026,Qtr 3,August,8,38,Forced,OUT015,Bhivpuri HPS,P08,Generator bearing temperature high,2026,Qtr 3,August,7
+8.3,2026,Qtr 3,August,8,525,Forced,OUT016,Maithon RB TPP,P04,Boiler auxiliary problem,2026,Qtr 3,August,8
+108,2026,Qtr 3,August,10,180,Planned,OUT014,Trombay CCPP,P02,Condenser vacuum low,2026,Qtr 3,August,5
+20.9,2026,Qtr 3,August,11,525,Forced,OUT017,Maithon RB TPP,P04,Furnace draft abnormal,2026,Qtr 3,August,10
+116.7,2026,Qtr 3,August,16,36,Planned,OUT018,Khopoli HPS,P09,Generator bearing temperature high,2026,Qtr 3,August,11
+99,2026,Qtr 3,August,22,36,Planned,OUT019,Khopoli HPS,P09,Governor fault,2026,Qtr 3,August,17
+57.6,2026,Qtr 3,August,23,75,Forced,OUT020,Bhira PSS,P07,Annual maintenance,2026,Qtr 3,August,21
+35.1,2026,Qtr 3,August,24,800,Forced,OUT021,Mundra UMTPP,P05,Coal supply constraint,2026,Qtr 3,August,22
+32.6,2026,Qtr 3,August,24,525,Forced,OUT022,Maithon RB TPP,P04,Generator transformer trip,2026,Qtr 3,August,23
+57,2026,Qtr 3,August,28,180,Forced,OUT023,Trombay CCPP,P02,Coal supply constraint,2026,Qtr 3,August,26
+42.9,2026,Qtr 3,August,30,120,Forced,OUT024,Jojobera TPS,P03,Furnace draft abnormal,2026,Qtr 3,August,29
+52.6,2026,Qtr 3,August,31,800,Planned,OUT025,Mundra UMTPP,P05,Condenser vacuum low,2026,Qtr 3,August,29
+27,2026,Qtr 3,September,4,120,Forced,OUT026,Jojobera TPS,P03,Generator transformer trip,2026,Qtr 3,September,3
+54.6,2026,Qtr 3,September,7,750,Forced,OUT027,Trombay TPS,P01,Furnace draft abnormal,2026,Qtr 3,September,5
+26,2026,Qtr 3,September,7,75,Forced,OUT029,Bhira HPS,P06,Penstock inspection,2026,Qtr 3,September,6
+41.1,2026,Qtr 3,September,8,75,Forced,OUT028,Bhira HPS,P06,Annual maintenance,2026,Qtr 3,September,6
+34.6,2026,Qtr 3,September,8,36,Forced,OUT031,Khopoli HPS,P09,Governor fault,2026,Qtr 3,September,7
+67,2026,Qtr 3,September,9,90,Planned,OUT030,Trombay CCPP,P02,Condenser vacuum low,2026,Qtr 3,September,6
+53.7,2026,Qtr 3,September,12,75,Forced,OUT032,Bhira PSS,P07,Penstock inspection,2026,Qtr 3,September,10
+20,2026,Qtr 3,September,12,750,Forced,OUT033,Trombay TPS,P01,Boiler auxiliary problem,2026,Qtr 3,September,12
+82.3,2026,Qtr 3,September,19,75,Planned,OUT034,Bhira HPS,P06,Generator bearing temperature high,2026,Qtr 3,September,16
+57.9,2026,Qtr 3,September,25,38,Forced,OUT035,Bhivpuri HPS,P08,Penstock inspection,2026,Qtr 3,September,22
+21.3,2026,Qtr 3,September,25,75,Forced,OUT036,Bhira HPS,P06,Penstock inspection,2026,Qtr 3,September,24
+13.7,2026,Qtr 3,September,27,800,Forced,OUT037,Mundra UMTPP,P05,Milling system / feeder problem,2026,Qtr 3,September,27
+6.3,2026,Qtr 3,September,28,525,Forced,OUT038,Maithon RB TPP,P04,Milling system / feeder problem,2026,Qtr 3,September,28
+39.4,2026,Qtr 4,October,3,800,Forced,OUT039,Mundra UMTPP,P05,Water wall tube leakage,2026,Qtr 4,October,1
+16.3,2026,Qtr 4,October,4,800,Forced,OUT040,Mundra UMTPP,P05,Water wall tube leakage,2026,Qtr 4,October,3
+16.5,2026,Qtr 4,October,6,525,Forced,OUT041,Maithon RB TPP,P04,Boiler auxiliary problem,2026,Qtr 4,October,5
+4,2026,Qtr 4,October,6,75,Planned,OUT042,Bhira HPS,P06,Governor fault,2026,Qtr 4,October,6
+7.5,2026,Qtr 4,October,7,180,Forced,OUT043,Trombay CCPP,P02,Turbine vibration high,2026,Qtr 4,October,7

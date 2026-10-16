@@ -1,0 +1,21 @@
+﻿Sum of Capacity_MVA,Substation,SubstationID,Sum of Voltage_kV,ZoneID
+160,Ajmer Sub-station 1,SS-AJM-01,33,Z4
+100,Ajmer Sub-station 2,SS-AJM-02,66,Z4
+160,Ajmer Sub-station 3,SS-AJM-03,33,Z4
+50,Ajmer Sub-station 4,SS-AJM-04,132,Z4
+200,Delhi Sub-station 1,SS-DEL-01,66,Z2
+200,Delhi Sub-station 2,SS-DEL-02,33,Z2
+160,Delhi Sub-station 3,SS-DEL-03,33,Z2
+160,Delhi Sub-station 4,SS-DEL-04,33,Z2
+50,Jamshedpur Sub-station 1,SS-JAM-01,132,Z5
+160,Jamshedpur Sub-station 2,SS-JAM-02,66,Z5
+200,Jamshedpur Sub-station 3,SS-JAM-03,66,Z5
+50,Jamshedpur Sub-station 4,SS-JAM-04,132,Z5
+50,Mumbai Sub-station 1,SS-MUM-01,132,Z1
+200,Mumbai Sub-station 2,SS-MUM-02,66,Z1
+100,Mumbai Sub-station 3,SS-MUM-03,132,Z1
+160,Mumbai Sub-station 4,SS-MUM-04,132,Z1
+200,Odisha Sub-station 1,SS-ODI-01,33,Z3
+100,Odisha Sub-station 2,SS-ODI-02,132,Z3
+100,Odisha Sub-station 3,SS-ODI-03,132,Z3
+200,Odisha Sub-station 4,SS-ODI-04,132,Z3

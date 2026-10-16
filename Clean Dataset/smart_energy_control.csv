@@ -1,0 +1,15 @@
+﻿Sum of Base_PLF,Sum of Capacity_MW,Data_Note,Sum of Emission_Factor_tCO2_per_MWh,Fuel_Type,ï»¿PlantID,Sum of Latitude,Sum of Longitude,Ownership,Plant_Name,Region,Segment,State,Sum of Temp_Limit_C
+0.25,300,Illustrative capacity,0,Solar,P12,22.25,72.18,Tata Power Renewable,Dholera Solar Park,Western,Renewable,Gujarat,60
+0.25,200,Illustrative capacity,0,Solar,P13,27.54,71.91,Tata Power Renewable,Rajasthan Solar Park,Northern,Renewable,Rajasthan,60
+0.22,50,Illustrative capacity,0,Solar,P14,19.07,72.87,Tata Power Solar,Mumbai Rooftop Solar Cluster,Western,Renewable,Maharashtra,60
+0.3,100,Illustrative capacity,0,Wind,P10,22.42,69.01,Tata Power Renewable,Mithapur Wind Farm,Western,Renewable,Gujarat,70
+0.3,100,Illustrative capacity,0,Wind,P11,14.23,76.4,Tata Power Renewable,Chitradurga Wind Farm,Southern,Renewable,Karnataka,70
+0.85,180,Real plant,0.45,Gas,P02,19.01,72.9,Tata Power,Trombay CCPP,Western,Conventional,Maharashtra,540
+0.55,150,Real plant,0,Hydro,P06,18.46,73.37,Tata Power,Bhira HPS,Western,Hydro,Maharashtra,80
+0.68,75,Real plant,0,Hydro,P08,18.95,73.35,Tata Power,Bhivpuri HPS,Western,Hydro,Maharashtra,80
+0.5,72,Real plant,0,Hydro,P09,18.78,73.34,Tata Power,Khopoli HPS,Western,Hydro,Maharashtra,80
+0.55,150,Real plant,0,Pumped Storage,P07,18.46,73.37,Tata Power,Bhira PSS,Western,Hydro,Maharashtra,80
+0.26,750,Real plant,0.95,Thermal (Coal),P01,19.01,72.9,Tata Power,Trombay TPS,Western,Conventional,Maharashtra,575
+0.77,240,Real plant,1,Thermal (Coal),P03,22.77,86.22,Tata Power,Jojobera TPS,Eastern,Conventional,Jharkhand,575
+0.89,1050,Real plant,0.9,Thermal (Coal),P04,23.78,86.82,Tata Power (JV),Maithon RB TPP,Eastern,Conventional,Jharkhand,575
+0.88,4000,Real plant,0.8,Thermal (Coal),P05,22.82,69.55,Tata Power (CGPL),Mundra UMTPP,Western,Conventional,Gujarat,575
