@@ -590,7 +590,7 @@ Tata-Power-Smart-Energy-Control-360/
 Add screenshots of the completed dashboard pages to the `screenshots/` folder. Use these paths once the corresponding images have been added:
 
 ### 1. Dashboard Overview
-![Dashboard Overview](C:/Users/LEGION/Pictures/Dashbord Screenshot/Dashboard_overview.png)
+![Dashboard Overview](/Dashbord Screenshot/Dashboard_overview.png)
 
 ### 2. Grid & Substations
 
