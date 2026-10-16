@@ -595,15 +595,16 @@ Add screenshots of the completed dashboard pages to the `screenshots/` folder. U
 
 ### 2. Grid & Substations
 
-![Grid and Substations](screenshots\grid-substations.png)
+<img width="1252" height="712" alt="Grid _substations" src="https://github.com/user-attachments/assets/4cc4fb3b-d956-416f-85e5-d0bd22440c8f" />
 
 ### 3. Billing & EV Mobility
 
-![Billing and EV Mobility](screenshots\billing-ev-mobility.png)
+<img width="1247" height="702" alt="Billing_Ev Mobility" src="https://github.com/user-attachments/assets/d98872b9-406b-4365-8158-3cd8b23f46d3" />
+
 
 ### 4. Energy Risk Intelligence 360
 
-![Energy Risk Intelligence 360](screenshots\energy-risk-intelligence.png)
+<img width="1250" height="696" alt="Energy Risk_Intelligenece 360" src="https://github.com/user-attachments/assets/5851a5a8-5286-4a7c-8c7d-35932c5ac450" />
 
 ### Deliverables
 
