@@ -1,0 +1,15 @@
+PlantID,Plant_Name,Fuel_Type,Segment,Region,State,Latitude,Longitude,Capacity_MW,Ownership,Base_PLF,Emission_Factor_tCO2_per_MWh,Temp_Limit_C,Data_Note
+P01,Trombay TPS,Thermal (Coal),Conventional,Western,Maharashtra,19.01,72.9,750,Tata Power,0.26,0.95,575,Real plant
+P02,Trombay CCPP,Gas,Conventional,Western,Maharashtra,19.01,72.9,180,Tata Power,0.85,0.45,540,Real plant
+P03,Jojobera TPS,Thermal (Coal),Conventional,Eastern,Jharkhand,22.77,86.22,240,Tata Power,0.77,1.0,575,Real plant
+P04,Maithon RB TPP,Thermal (Coal),Conventional,Eastern,Jharkhand,23.78,86.82,1050,Tata Power (JV),0.89,0.9,575,Real plant
+P05,Mundra UMTPP,Thermal (Coal),Conventional,Western,Gujarat,22.82,69.55,4000,Tata Power (CGPL),0.88,0.8,575,Real plant
+P06,Bhira HPS,Hydro,Hydro,Western,Maharashtra,18.46,73.37,150,Tata Power,0.55,0.0,80,Real plant
+P07,Bhira PSS,Pumped Storage,Hydro,Western,Maharashtra,18.46,73.37,150,Tata Power,0.55,0.0,80,Real plant
+P08,Bhivpuri HPS,Hydro,Hydro,Western,Maharashtra,18.95,73.35,75,Tata Power,0.68,0.0,80,Real plant
+P09,Khopoli HPS,Hydro,Hydro,Western,Maharashtra,18.78,73.34,72,Tata Power,0.5,0.0,80,Real plant
+P10,Mithapur Wind Farm,Wind,Renewable,Western,Gujarat,22.42,69.01,100,Tata Power Renewable,0.3,0.0,70,Illustrative capacity
+P11,Chitradurga Wind Farm,Wind,Renewable,Southern,Karnataka,14.23,76.4,100,Tata Power Renewable,0.3,0.0,70,Illustrative capacity
+P12,Dholera Solar Park,Solar,Renewable,Western,Gujarat,22.25,72.18,300,Tata Power Renewable,0.25,0.0,60,Illustrative capacity
+P13,Rajasthan Solar Park,Solar,Renewable,Northern,Rajasthan,27.54,71.91,200,Tata Power Renewable,0.25,0.0,60,Illustrative capacity
+P14,Mumbai Rooftop Solar Cluster,Solar,Renewable,Western,Maharashtra,19.07,72.87,50,Tata Power Solar,0.22,0.0,60,Illustrative capacity

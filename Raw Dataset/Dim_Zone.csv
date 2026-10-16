@@ -1,0 +1,6 @@
+ZoneID,Zone,State,Utility,Latitude,Longitude,Peak_Demand_MW_Illustrative
+Z1,Mumbai,Maharashtra,Tata Power - Mumbai Distribution,19.076,72.878,1000
+Z2,Delhi,Delhi,Tata Power-DDL,28.704,77.102,1500
+Z3,Odisha,Odisha,Tata Power Odisha DISCOMs,20.296,85.824,2200
+Z4,Ajmer,Rajasthan,Tata Power Ajmer Distribution,26.449,74.639,300
+Z5,Jamshedpur,Jharkhand,Jamshedpur Utility Services,22.805,86.203,250
