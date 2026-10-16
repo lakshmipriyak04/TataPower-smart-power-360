@@ -590,7 +590,8 @@ Tata-Power-Smart-Energy-Control-360/
 Add screenshots of the completed dashboard pages to the `screenshots/` folder. Use these paths once the corresponding images have been added:
 
 ### 1. Dashboard Overview
-![Dashboard Overview](/Dashbord Screenshot/Dashboard_overview.png)
+<img width="1243" height="700" alt="Dashboard_overview" src="https://github.com/user-attachments/assets/3d44cd32-8c6e-40b8-9ec5-1ae2266e0f80" />
+
 
 ### 2. Grid & Substations
 
