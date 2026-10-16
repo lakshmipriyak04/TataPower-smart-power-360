@@ -591,19 +591,18 @@ Add screenshots of the completed dashboard pages to the `screenshots/` folder. U
 
 ### 1. Dashboard Overview
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
-
+C:/Users/LEGION/Pictures/Dashbord Screenshot/Dashboard_overview.png
 ### 2. Grid & Substations
 
-![Grid and Substations](screenshots/grid-substations.png)
+![Grid and Substations](screenshots\grid-substations.png)
 
 ### 3. Billing & EV Mobility
 
-![Billing and EV Mobility](screenshots/billing-ev-mobility.png)
+![Billing and EV Mobility](screenshots\billing-ev-mobility.png)
 
 ### 4. Energy Risk Intelligence 360
 
-![Energy Risk Intelligence 360](screenshots/energy-risk-intelligence.png)
+![Energy Risk Intelligence 360](screenshots\energy-risk-intelligence.png)
 
 ### Deliverables
 
